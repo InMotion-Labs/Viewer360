@@ -13,7 +13,7 @@
 This project shows how to implement InMotion's player in real-live application.
 
 ## Live Example
-The working demo is available here: [https://carscanner.dev/demo/viewer360](https://carscanner.dev/demo/viewer360/?plate=FG17KHT#)
+The working demo is available here: [https://carscanner.dev/demo/viewer360](https://carscanner.dev/demo/viewer360/?plate=KWA77SC#)
 
 ## Features
 * 360°  presentation of car's exterior
